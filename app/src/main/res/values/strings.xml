@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IHearYou</string>
+    <string name="speak_prompt">Say something like Red or Blue</string>
+</resources>
